@@ -27,7 +27,3 @@ A modular console-based Inventory Management System developed using C++. The app
 <img width="612" height="431" alt="image" src="https://github.com/user-attachments/assets/bf9f63a7-f37e-43c7-8a65-5f1b300c6ab2" />
 <img width="619" height="482" alt="image" src="https://github.com/user-attachments/assets/d838ae41-af0d-4ed3-9f26-8c72d6b0f31e" />
 <img width="611" height="373" alt="image" src="https://github.com/user-attachments/assets/db5aeff2-c035-4724-8d7f-61cfc939e80b" />
-
-
-
-## 📂 Project S
